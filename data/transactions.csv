@@ -1,0 +1,501 @@
+transaction_id,transaction_date,account_id,transaction_type,channel,amount,status,region
+TXN100461,2026-01-02,ACCT1047,Refund,Card,61.48,Pending,Midwest
+TXN100474,2026-01-02,ACCT1054,Transfer,Card,174.86,Pending,Northeast
+TXN100337,2026-01-02,ACCT1067,Payment,ACH,646.32,Declined,West
+TXN100039,2026-01-03,ACCT1046,Transfer,Online Transfer,267.48,Completed,Northeast
+TXN100117,2026-01-03,ACCT1029,Fee,Card,167.99,Completed,South
+TXN100122,2026-01-03,ACCT1052,Transfer,Card,1332.2,Completed,West
+TXN100316,2026-01-03,ACCT1091,Transfer,ACH,745.39,Completed,Northeast
+TXN100141,2026-01-04,ACCT1041,Payment,Online Transfer,3840.51,Completed,Midwest
+TXN100397,2026-01-04,ACCT1095,Payment,Wire,1017.56,Completed,South
+TXN100272,2026-01-06,ACCT1080,Refund,Card,68.72,Completed,Midwest
+TXN100239,2026-01-07,ACCT1063,Transfer,ACH,166.8,Completed,South
+TXN100242,2026-01-07,ACCT1041,Payment,ACH,66.23,Declined,Northeast
+TXN100266,2026-01-07,ACCT1055,Payment,Wire,114.98,Completed,South
+TXN100331,2026-01-08,ACCT1011,Payment,ACH,221.01,Declined,Midwest
+TXN100080,2026-01-08,ACCT1028,Refund,Wire,89.32,Completed,West
+TXN100197,2026-01-08,ACCT1061,Transfer,Card,530.2,Completed,Northeast
+TXN100395,2026-01-09,ACCT1065,Payment,Online Transfer,286.82,Declined,Midwest
+TXN100496,2026-01-09,ACCT1008,Payment,Wire,167.05,Completed,Northeast
+TXN100082,2026-01-11,ACCT1048,Transfer,Card,447.41,Pending,Midwest
+TXN100203,2026-01-12,ACCT1072,Refund,Wire,81.21,Completed,Midwest
+TXN100019,2026-01-12,ACCT1060,Payment,ACH,693.67,Completed,West
+TXN100115,2026-01-13,ACCT1057,Refund,Wire,35.04,Completed,South
+TXN100018,2026-01-13,ACCT1087,Fee,Wire,78.58,Declined,Northeast
+TXN100480,2026-01-13,ACCT1069,Payment,Online Transfer,189.65,Declined,Midwest
+TXN100268,2026-01-14,ACCT1065,Payment,Online Transfer,754.22,Pending,Northeast
+TXN100083,2026-01-14,ACCT1027,Payment,ACH,2142.1,Completed,Northeast
+TXN100382,2026-01-14,ACCT1038,Transfer,Online Transfer,166.68,Declined,Midwest
+TXN100427,2026-01-14,ACCT1070,Fee,Online Transfer,40.54,Completed,South
+TXN100034,2026-01-15,ACCT1057,Transfer,Card,48.57,Completed,West
+TXN100444,2026-01-16,ACCT1035,Refund,Online Transfer,116.39,Completed,Midwest
+TXN100182,2026-01-16,ACCT1068,Refund,Card,198.62,Completed,Midwest
+TXN100123,2026-01-16,ACCT1086,Transfer,Card,35.29,Pending,West
+TXN100493,2026-01-16,ACCT1038,Payment,Wire,187.09,Completed,West
+TXN100329,2026-01-16,ACCT1066,Payment,Online Transfer,159.68,Completed,Northeast
+TXN100205,2026-01-17,ACCT1013,Payment,Online Transfer,334.82,Completed,Northeast
+TXN100071,2026-01-17,ACCT1048,Payment,ACH,182.73,Completed,Midwest
+TXN100275,2026-01-17,ACCT1041,Payment,ACH,88.69,Completed,South
+TXN100243,2026-01-18,ACCT1095,Refund,Wire,201.83,Completed,South
+TXN100194,2026-01-18,ACCT1063,Refund,ACH,558.97,Completed,Northeast
+TXN100421,2026-01-19,ACCT1094,Payment,Online Transfer,108.7,Completed,Midwest
+TXN100021,2026-01-19,ACCT1053,Payment,ACH,60.59,Completed,Midwest
+TXN100116,2026-01-20,ACCT1059,Payment,Card,379.07,Completed,Midwest
+TXN100022,2026-01-21,ACCT1052,Transfer,Online Transfer,830.92,Completed,Northeast
+TXN100179,2026-01-21,ACCT1086,Payment,Online Transfer,252.66,Completed,West
+TXN100068,2026-01-22,ACCT1084,Payment,Online Transfer,103.15,Completed,Midwest
+TXN100270,2026-01-22,ACCT1073,Refund,Online Transfer,1391.38,Completed,West
+TXN100104,2026-01-24,ACCT1014,Transfer,ACH,496.75,Completed,West
+TXN100107,2026-01-24,ACCT1075,Refund,Online Transfer,1908.06,Completed,Midwest
+TXN100262,2026-01-24,ACCT1096,Transfer,Wire,416.83,Declined,Northeast
+TXN100365,2026-01-24,ACCT1003,Fee,Card,81.49,Completed,Northeast
+TXN100322,2026-01-24,ACCT1012,Payment,Wire,152.56,Completed,West
+TXN100296,2026-01-25,ACCT1002,Payment,Card,258.02,Completed,Midwest
+TXN100460,2026-01-25,ACCT1066,Payment,Card,167.15,Completed,South
+TXN100293,2026-01-25,ACCT1074,Transfer,ACH,399.76,Completed,West
+TXN100319,2026-01-25,ACCT1067,Transfer,Online Transfer,916.33,Completed,West
+TXN100035,2026-01-26,ACCT1062,Payment,Wire,204.33,Completed,West
+TXN100356,2026-01-26,ACCT1015,Transfer,Wire,105.02,Declined,Northeast
+TXN100046,2026-01-27,ACCT1012,Fee,Online Transfer,169.12,Declined,South
+TXN100069,2026-01-27,ACCT1018,Payment,ACH,97.17,Completed,West
+TXN100436,2026-01-28,ACCT1099,Transfer,Online Transfer,200.87,Declined,Midwest
+TXN100043,2026-01-28,ACCT1004,Transfer,Wire,1025.51,Completed,West
+TXN100154,2026-01-28,ACCT1043,Payment,ACH,123.97,Completed,South
+TXN100284,2026-01-29,ACCT1088,Payment,Online Transfer,578.42,Completed,West
+TXN100233,2026-01-30,ACCT1027,Transfer,Wire,253.64,Declined,Northeast
+TXN100037,2026-01-30,ACCT1012,Payment,Card,112.32,Completed,South
+TXN100234,2026-01-31,ACCT1020,Payment,Online Transfer,337.86,Completed,Midwest
+TXN100492,2026-01-31,ACCT1056,Payment,Online Transfer,206.04,Pending,South
+TXN100074,2026-01-31,ACCT1064,Transfer,Online Transfer,488.11,Pending,South
+TXN100253,2026-01-31,ACCT1095,Payment,Online Transfer,123.32,Completed,South
+TXN100208,2026-02-01,ACCT1080,Payment,Wire,214.13,Completed,Midwest
+TXN100248,2026-02-01,ACCT1099,Transfer,Wire,1059.05,Declined,Northeast
+TXN100040,2026-02-02,ACCT1077,Refund,Online Transfer,560.42,Pending,Northeast
+TXN100209,2026-02-02,ACCT1033,Transfer,Wire,332.75,Completed,Northeast
+TXN100340,2026-02-02,ACCT1016,Transfer,Wire,98.13,Pending,Northeast
+TXN100396,2026-02-04,ACCT1030,Fee,ACH,294.36,Declined,Northeast
+TXN100070,2026-02-04,ACCT1008,Transfer,Wire,101.33,Completed,West
+TXN100221,2026-02-04,ACCT1037,Transfer,Wire,141.21,Completed,Midwest
+TXN100178,2026-02-05,ACCT1005,Payment,Wire,289.28,Completed,Midwest
+TXN100368,2026-02-05,ACCT1078,Transfer,ACH,339.34,Completed,Northeast
+TXN100349,2026-02-05,ACCT1029,Payment,Card,44.67,Completed,Midwest
+TXN100133,2026-02-05,ACCT1095,Transfer,Online Transfer,359.15,Completed,Midwest
+TXN100338,2026-02-06,ACCT1091,Fee,Wire,327.26,Completed,South
+TXN100257,2026-02-06,ACCT1070,Payment,Online Transfer,264.04,Completed,West
+TXN100013,2026-02-06,ACCT1032,Transfer,Wire,213.38,Declined,West
+TXN100131,2026-02-07,ACCT1064,Transfer,ACH,2030.8,Completed,Northeast
+TXN100394,2026-02-08,ACCT1078,Transfer,ACH,79.41,Completed,West
+TXN100187,2026-02-08,ACCT1040,Payment,Online Transfer,39.67,Completed,Northeast
+TXN100109,2026-02-08,ACCT1011,Fee,Online Transfer,170.51,Completed,West
+TXN100081,2026-02-09,ACCT1074,Payment,Online Transfer,510.19,Declined,West
+TXN100091,2026-02-10,ACCT1004,Payment,Online Transfer,665.85,Completed,Midwest
+TXN100398,2026-02-11,ACCT1064,Payment,Wire,116.17,Completed,Midwest
+TXN100353,2026-02-11,ACCT1015,Payment,Online Transfer,192.14,Declined,South
+TXN100240,2026-02-12,ACCT1031,Fee,Card,235.93,Pending,Northeast
+TXN100380,2026-02-12,ACCT1015,Fee,Online Transfer,109.86,Completed,South
+TXN100217,2026-02-13,ACCT1039,Transfer,Wire,206.56,Completed,West
+TXN100125,2026-02-14,ACCT1071,Payment,Wire,152.9,Completed,West
+TXN100110,2026-02-15,ACCT1080,Payment,ACH,162.48,Completed,Northeast
+TXN100470,2026-02-16,ACCT1099,Payment,Online Transfer,417.72,Completed,Midwest
+TXN100103,2026-02-16,ACCT1061,Transfer,ACH,210.97,Declined,Northeast
+TXN100085,2026-02-17,ACCT1051,Transfer,ACH,361.11,Completed,South
+TXN100119,2026-02-17,ACCT1026,Payment,ACH,155.49,Pending,West
+TXN100228,2026-02-17,ACCT1056,Transfer,Wire,230.08,Pending,South
+TXN100487,2026-02-17,ACCT1021,Fee,Wire,289.07,Completed,Midwest
+TXN100088,2026-02-17,ACCT1056,Transfer,Online Transfer,496.04,Completed,West
+TXN100437,2026-02-18,ACCT1009,Transfer,Online Transfer,105.48,Completed,South
+TXN100495,2026-02-18,ACCT1003,Payment,Card,1059.66,Completed,Midwest
+TXN100443,2026-02-18,ACCT1000,Payment,ACH,54.51,Pending,South
+TXN100490,2026-02-19,ACCT1017,Payment,Card,1734.48,Declined,South
+TXN100274,2026-02-19,ACCT1056,Refund,Card,146.61,Completed,West
+TXN100177,2026-02-19,ACCT1051,Transfer,ACH,190.79,Completed,Midwest
+TXN100376,2026-02-19,ACCT1035,Refund,ACH,165.46,Declined,Midwest
+TXN100411,2026-02-20,ACCT1029,Fee,Wire,309.47,Completed,South
+TXN100079,2026-02-21,ACCT1048,Refund,Online Transfer,2142.31,Completed,Northeast
+TXN100218,2026-02-22,ACCT1085,Payment,Online Transfer,58.93,Declined,Northeast
+TXN100175,2026-02-22,ACCT1033,Payment,ACH,246.79,Completed,West
+TXN100227,2026-02-23,ACCT1031,Transfer,Card,39.31,Completed,Northeast
+TXN100048,2026-02-23,ACCT1053,Payment,Card,185.58,Completed,Northeast
+TXN100377,2026-02-23,ACCT1007,Payment,Online Transfer,403.45,Completed,South
+TXN100029,2026-02-24,ACCT1069,Payment,ACH,227.03,Declined,Northeast
+TXN100112,2026-02-24,ACCT1068,Refund,ACH,518.12,Declined,Northeast
+TXN100389,2026-02-24,ACCT1030,Payment,Wire,166.74,Completed,West
+TXN100102,2026-02-25,ACCT1021,Transfer,ACH,1225.3,Completed,West
+TXN100152,2026-02-25,ACCT1019,Transfer,ACH,809.54,Completed,Midwest
+TXN100364,2026-02-25,ACCT1023,Refund,Online Transfer,233.46,Completed,West
+TXN100097,2026-02-25,ACCT1065,Transfer,ACH,69.77,Completed,South
+TXN100442,2026-02-25,ACCT1001,Refund,Wire,336.6,Completed,Northeast
+TXN100438,2026-02-26,ACCT1086,Transfer,Wire,895.93,Completed,West
+TXN100204,2026-02-27,ACCT1000,Transfer,Online Transfer,218.78,Completed,West
+TXN100014,2026-02-28,ACCT1070,Refund,Wire,85.87,Completed,Midwest
+TXN100375,2026-02-28,ACCT1011,Payment,Online Transfer,299.89,Completed,Midwest
+TXN100412,2026-03-02,ACCT1038,Transfer,ACH,427.61,Completed,South
+TXN100273,2026-03-02,ACCT1009,Transfer,Card,167.16,Completed,South
+TXN100061,2026-03-02,ACCT1096,Transfer,Online Transfer,440.78,Pending,Northeast
+TXN100247,2026-03-03,ACCT1092,Payment,Card,123.27,Declined,Midwest
+TXN100026,2026-03-04,ACCT1086,Payment,Card,243.52,Completed,Northeast
+TXN100168,2026-03-04,ACCT1062,Refund,Card,153.4,Completed,Northeast
+TXN100174,2026-03-05,ACCT1002,Payment,Card,73.34,Pending,Midwest
+TXN100408,2026-03-05,ACCT1027,Transfer,ACH,811.81,Completed,Northeast
+TXN100092,2026-03-05,ACCT1002,Transfer,Card,86.08,Completed,South
+TXN100302,2026-03-06,ACCT1066,Transfer,Online Transfer,130.69,Completed,Northeast
+TXN100422,2026-03-07,ACCT1012,Transfer,ACH,148.99,Completed,Northeast
+TXN100192,2026-03-08,ACCT1022,Transfer,Card,167.73,Pending,West
+TXN100321,2026-03-08,ACCT1012,Transfer,ACH,1040.17,Completed,Midwest
+TXN100171,2026-03-08,ACCT1088,Payment,ACH,318.42,Completed,Northeast
+TXN100306,2026-03-08,ACCT1040,Transfer,ACH,144.73,Completed,West
+TXN100062,2026-03-08,ACCT1048,Transfer,Wire,94.09,Completed,Northeast
+TXN100385,2026-03-08,ACCT1027,Payment,ACH,70.94,Declined,South
+TXN100006,2026-03-09,ACCT1052,Payment,Online Transfer,3701.72,Completed,Northeast
+TXN100038,2026-03-10,ACCT1046,Refund,Online Transfer,161.39,Completed,West
+TXN100359,2026-03-11,ACCT1027,Payment,Online Transfer,250.5,Completed,Northeast
+TXN100101,2026-03-11,ACCT1097,Transfer,ACH,236.86,Completed,West
+TXN100118,2026-03-12,ACCT1071,Transfer,Wire,87.85,Completed,Northeast
+TXN100065,2026-03-12,ACCT1060,Fee,Wire,631.05,Completed,West
+TXN100348,2026-03-12,ACCT1055,Refund,Wire,1243.34,Declined,Northeast
+TXN100220,2026-03-12,ACCT1085,Transfer,Card,79.66,Pending,West
+TXN100163,2026-03-12,ACCT1067,Payment,Online Transfer,123.03,Pending,Northeast
+TXN100425,2026-03-13,ACCT1023,Payment,ACH,3242.72,Completed,South
+TXN100325,2026-03-13,ACCT1055,Payment,Wire,86.33,Completed,West
+TXN100475,2026-03-13,ACCT1080,Payment,ACH,232.92,Completed,South
+TXN100246,2026-03-13,ACCT1070,Payment,Online Transfer,138.3,Pending,Midwest
+TXN100106,2026-03-14,ACCT1082,Payment,Online Transfer,94.96,Completed,Midwest
+TXN100230,2026-03-14,ACCT1040,Payment,Online Transfer,285.79,Completed,Midwest
+TXN100009,2026-03-14,ACCT1043,Payment,Card,641.1,Completed,South
+TXN100401,2026-03-14,ACCT1088,Payment,Wire,194.34,Declined,South
+TXN100303,2026-03-15,ACCT1071,Payment,Card,134.67,Completed,Northeast
+TXN100291,2026-03-17,ACCT1005,Payment,Online Transfer,204.14,Pending,Midwest
+TXN100130,2026-03-17,ACCT1038,Payment,ACH,91.46,Completed,South
+TXN100084,2026-03-17,ACCT1004,Payment,Online Transfer,206.39,Completed,Northeast
+TXN100497,2026-03-17,ACCT1027,Payment,ACH,233.33,Completed,West
+TXN100201,2026-03-17,ACCT1074,Transfer,ACH,222.11,Completed,West
+TXN100223,2026-03-20,ACCT1082,Fee,Card,960.88,Pending,South
+TXN100388,2026-03-20,ACCT1064,Payment,ACH,171.48,Pending,Northeast
+TXN100360,2026-03-20,ACCT1040,Fee,Card,388.45,Pending,South
+TXN100465,2026-03-20,ACCT1075,Payment,ACH,128.31,Declined,West
+TXN100244,2026-03-20,ACCT1049,Transfer,ACH,92.55,Completed,South
+TXN100423,2026-03-20,ACCT1049,Refund,Card,147.26,Completed,South
+TXN100056,2026-03-21,ACCT1060,Transfer,Wire,266.5,Completed,Midwest
+TXN100350,2026-03-21,ACCT1032,Payment,Card,1961.04,Completed,Northeast
+TXN100146,2026-03-22,ACCT1049,Transfer,ACH,78.62,Completed,West
+TXN100211,2026-03-22,ACCT1036,Transfer,Wire,15.28,Completed,Midwest
+TXN100210,2026-03-22,ACCT1065,Payment,Wire,27.1,Completed,Northeast
+TXN100288,2026-03-22,ACCT1036,Refund,Wire,3086.24,Completed,Northeast
+TXN100333,2026-03-22,ACCT1075,Refund,Online Transfer,246.67,Completed,Midwest
+TXN100249,2026-03-23,ACCT1098,Fee,ACH,147.18,Pending,West
+TXN100499,2026-03-23,ACCT1098,Payment,ACH,548.28,Completed,Midwest
+TXN100181,2026-03-24,ACCT1090,Payment,Online Transfer,235.7,Completed,Northeast
+TXN100355,2026-03-24,ACCT1093,Payment,Wire,172.36,Completed,West
+TXN100260,2026-03-25,ACCT1089,Fee,Card,510.04,Completed,West
+TXN100028,2026-03-25,ACCT1081,Payment,Online Transfer,19.86,Completed,Northeast
+TXN100147,2026-03-25,ACCT1045,Refund,ACH,555.77,Completed,West
+TXN100390,2026-03-26,ACCT1031,Refund,Online Transfer,90.06,Completed,South
+TXN100374,2026-03-26,ACCT1071,Payment,ACH,149.93,Completed,South
+TXN100400,2026-03-26,ACCT1021,Fee,Card,176.6,Pending,West
+TXN100185,2026-03-26,ACCT1099,Refund,ACH,166.49,Declined,Midwest
+TXN100446,2026-03-27,ACCT1006,Payment,ACH,119.52,Completed,South
+TXN100225,2026-03-27,ACCT1003,Transfer,Online Transfer,370.44,Completed,West
+TXN100399,2026-03-28,ACCT1043,Fee,Card,693.56,Completed,West
+TXN100417,2026-03-28,ACCT1077,Payment,Card,108.16,Completed,Northeast
+TXN100196,2026-03-29,ACCT1033,Fee,Card,1634.69,Completed,South
+TXN100320,2026-03-29,ACCT1061,Transfer,Card,74.74,Declined,South
+TXN100381,2026-03-30,ACCT1071,Transfer,Card,275.16,Completed,West
+TXN100195,2026-03-30,ACCT1039,Transfer,Wire,468.89,Completed,West
+TXN100312,2026-03-31,ACCT1080,Payment,Online Transfer,81.52,Declined,West
+TXN100200,2026-03-31,ACCT1033,Transfer,ACH,764.4,Completed,Midwest
+TXN100114,2026-04-02,ACCT1060,Refund,Wire,688.14,Completed,Northeast
+TXN100448,2026-04-02,ACCT1072,Refund,Online Transfer,141.35,Completed,Northeast
+TXN100139,2026-04-03,ACCT1077,Payment,Online Transfer,110.92,Completed,Northeast
+TXN100462,2026-04-03,ACCT1005,Payment,Wire,559.65,Completed,South
+TXN100145,2026-04-04,ACCT1008,Payment,Wire,1837.04,Completed,South
+TXN100202,2026-04-04,ACCT1076,Payment,ACH,514.99,Pending,Northeast
+TXN100279,2026-04-04,ACCT1010,Transfer,ACH,173.03,Declined,Midwest
+TXN100191,2026-04-05,ACCT1058,Refund,ACH,53.99,Completed,West
+TXN100458,2026-04-06,ACCT1037,Transfer,Wire,350.1,Completed,Northeast
+TXN100467,2026-04-08,ACCT1089,Transfer,ACH,439.94,Completed,South
+TXN100053,2026-04-08,ACCT1007,Refund,Wire,122.0,Completed,West
+TXN100494,2026-04-08,ACCT1041,Payment,Card,66.88,Pending,South
+TXN100128,2026-04-08,ACCT1091,Refund,ACH,783.85,Completed,South
+TXN100235,2026-04-08,ACCT1099,Payment,ACH,403.85,Completed,West
+TXN100468,2026-04-09,ACCT1085,Refund,Card,5500.48,Pending,South
+TXN100476,2026-04-09,ACCT1092,Transfer,Wire,329.69,Completed,South
+TXN100295,2026-04-10,ACCT1013,Transfer,Wire,114.14,Completed,Midwest
+TXN100311,2026-04-11,ACCT1033,Transfer,Wire,58.79,Declined,Midwest
+TXN100001,2026-04-12,ACCT1000,Payment,Card,69.43,Pending,West
+TXN100188,2026-04-12,ACCT1093,Payment,Online Transfer,718.72,Pending,Northeast
+TXN100173,2026-04-12,ACCT1041,Fee,ACH,114.8,Completed,Midwest
+TXN100186,2026-04-14,ACCT1046,Payment,ACH,740.81,Completed,South
+TXN100346,2026-04-15,ACCT1077,Payment,Card,355.98,Pending,Northeast
+TXN100298,2026-04-15,ACCT1012,Payment,Online Transfer,602.77,Declined,South
+TXN100297,2026-04-15,ACCT1062,Refund,Card,106.92,Completed,Midwest
+TXN100387,2026-04-15,ACCT1016,Fee,Card,56.57,Pending,Midwest
+TXN100254,2026-04-15,ACCT1031,Payment,Online Transfer,29.36,Completed,West
+TXN100419,2026-04-16,ACCT1081,Payment,Wire,104.23,Completed,Midwest
+TXN100008,2026-04-17,ACCT1054,Fee,ACH,13.96,Pending,Northeast
+TXN100216,2026-04-18,ACCT1064,Payment,Card,153.63,Completed,West
+TXN100087,2026-04-18,ACCT1041,Payment,ACH,302.38,Pending,West
+TXN100405,2026-04-19,ACCT1089,Transfer,Card,257.1,Completed,Midwest
+TXN100151,2026-04-19,ACCT1001,Transfer,ACH,232.82,Completed,Midwest
+TXN100089,2026-04-20,ACCT1091,Payment,Online Transfer,11.76,Pending,West
+TXN100386,2026-04-20,ACCT1042,Payment,Wire,271.18,Completed,Northeast
+TXN100453,2026-04-21,ACCT1098,Transfer,Card,1401.26,Completed,South
+TXN100479,2026-04-21,ACCT1084,Payment,ACH,400.69,Completed,Northeast
+TXN100002,2026-04-21,ACCT1063,Transfer,Wire,386.22,Completed,Northeast
+TXN100433,2026-04-22,ACCT1001,Payment,Wire,311.43,Completed,South
+TXN100313,2026-04-23,ACCT1029,Transfer,Wire,294.1,Completed,Midwest
+TXN100351,2026-04-23,ACCT1056,Payment,Online Transfer,312.45,Completed,West
+TXN100020,2026-04-23,ACCT1073,Payment,ACH,200.65,Completed,Northeast
+TXN100450,2026-04-24,ACCT1023,Transfer,ACH,587.22,Completed,South
+TXN100439,2026-04-25,ACCT1053,Payment,Wire,191.57,Completed,Midwest
+TXN100413,2026-04-25,ACCT1085,Payment,Wire,86.9,Declined,Midwest
+TXN100066,2026-04-26,ACCT1090,Transfer,Wire,174.76,Declined,West
+TXN100469,2026-04-26,ACCT1065,Payment,ACH,136.17,Completed,Midwest
+TXN100075,2026-04-28,ACCT1084,Payment,ACH,101.44,Completed,Midwest
+TXN100148,2026-04-29,ACCT1095,Payment,Online Transfer,45.63,Completed,Northeast
+TXN100383,2026-04-30,ACCT1083,Refund,Online Transfer,380.39,Completed,Northeast
+TXN100124,2026-04-30,ACCT1024,Payment,Online Transfer,469.67,Declined,Northeast
+TXN100033,2026-05-01,ACCT1034,Transfer,Wire,59.12,Completed,Midwest
+TXN100327,2026-05-02,ACCT1064,Refund,Card,298.65,Completed,West
+TXN100481,2026-05-03,ACCT1066,Payment,ACH,2111.47,Completed,Northeast
+TXN100100,2026-05-03,ACCT1061,Transfer,Card,1127.69,Completed,West
+TXN100176,2026-05-04,ACCT1062,Payment,Wire,336.98,Completed,Midwest
+TXN100415,2026-05-04,ACCT1005,Payment,Card,678.13,Completed,Northeast
+TXN100111,2026-05-05,ACCT1060,Payment,Online Transfer,202.2,Completed,Midwest
+TXN100342,2026-05-07,ACCT1010,Payment,ACH,188.33,Completed,South
+TXN100323,2026-05-07,ACCT1029,Refund,Wire,669.14,Completed,South
+TXN100285,2026-05-08,ACCT1049,Transfer,ACH,630.42,Declined,West
+TXN100044,2026-05-08,ACCT1071,Transfer,Wire,345.61,Completed,West
+TXN100429,2026-05-08,ACCT1091,Payment,Card,234.14,Pending,West
+TXN100473,2026-05-09,ACCT1078,Transfer,ACH,37.29,Completed,Northeast
+TXN100281,2026-05-09,ACCT1028,Transfer,ACH,239.0,Declined,Northeast
+TXN100455,2026-05-10,ACCT1010,Payment,Card,155.24,Completed,Northeast
+TXN100315,2026-05-10,ACCT1098,Transfer,Online Transfer,273.92,Completed,Midwest
+TXN100414,2026-05-10,ACCT1096,Fee,Card,1460.9,Declined,South
+TXN100012,2026-05-10,ACCT1017,Payment,ACH,172.36,Completed,Midwest
+TXN100042,2026-05-11,ACCT1044,Refund,ACH,217.21,Completed,West
+TXN100067,2026-05-11,ACCT1093,Payment,Online Transfer,2140.21,Pending,Midwest
+TXN100471,2026-05-11,ACCT1040,Payment,Card,288.93,Pending,Northeast
+TXN100282,2026-05-12,ACCT1025,Transfer,Wire,584.38,Completed,Northeast
+TXN100136,2026-05-12,ACCT1060,Fee,ACH,372.13,Completed,Northeast
+TXN100072,2026-05-13,ACCT1057,Payment,Card,350.7,Completed,Midwest
+TXN100113,2026-05-13,ACCT1079,Payment,ACH,85.01,Completed,South
+TXN100334,2026-05-13,ACCT1023,Transfer,Online Transfer,94.38,Completed,Northeast
+TXN100169,2026-05-14,ACCT1088,Payment,Wire,632.38,Pending,West
+TXN100162,2026-05-14,ACCT1030,Payment,ACH,155.37,Completed,South
+TXN100418,2026-05-14,ACCT1075,Payment,Card,138.18,Completed,West
+TXN100180,2026-05-15,ACCT1045,Refund,Card,54.44,Pending,Midwest
+TXN100430,2026-05-15,ACCT1004,Fee,ACH,399.99,Pending,Midwest
+TXN100324,2026-05-16,ACCT1040,Payment,Online Transfer,283.26,Completed,Northeast
+TXN100076,2026-05-16,ACCT1040,Payment,Online Transfer,2707.29,Declined,West
+TXN100198,2026-05-17,ACCT1034,Refund,Card,51.72,Completed,South
+TXN100259,2026-05-17,ACCT1068,Payment,Online Transfer,333.6,Pending,Midwest
+TXN100120,2026-05-18,ACCT1082,Refund,Wire,1512.79,Declined,South
+TXN100287,2026-05-18,ACCT1022,Payment,Card,263.39,Completed,South
+TXN100160,2026-05-18,ACCT1070,Payment,Online Transfer,536.39,Completed,Northeast
+TXN100063,2026-05-18,ACCT1094,Payment,Wire,105.84,Pending,Midwest
+TXN100299,2026-05-18,ACCT1031,Payment,Card,176.27,Pending,Northeast
+TXN100226,2026-05-19,ACCT1007,Payment,ACH,229.97,Completed,Northeast
+TXN100362,2026-05-19,ACCT1046,Refund,Online Transfer,194.85,Pending,South
+TXN100402,2026-05-20,ACCT1008,Payment,Online Transfer,694.74,Completed,Northeast
+TXN100099,2026-05-21,ACCT1061,Transfer,Card,283.77,Pending,South
+TXN100241,2026-05-22,ACCT1083,Payment,Wire,439.12,Declined,South
+TXN100276,2026-05-23,ACCT1051,Payment,Wire,107.58,Completed,Northeast
+TXN100489,2026-05-23,ACCT1000,Payment,Wire,218.11,Completed,Midwest
+TXN100432,2026-05-23,ACCT1083,Refund,Online Transfer,382.03,Declined,West
+TXN100345,2026-05-23,ACCT1065,Transfer,ACH,117.11,Declined,West
+TXN100344,2026-05-23,ACCT1095,Transfer,Online Transfer,86.58,Completed,South
+TXN100409,2026-05-24,ACCT1000,Payment,Card,165.42,Declined,West
+TXN100024,2026-05-25,ACCT1041,Payment,ACH,152.93,Declined,South
+TXN100426,2026-05-26,ACCT1088,Fee,Wire,571.69,Completed,Northeast
+TXN100095,2026-05-27,ACCT1086,Fee,Online Transfer,89.76,Completed,Northeast
+TXN100452,2026-05-27,ACCT1053,Payment,Online Transfer,189.41,Completed,Northeast
+TXN100357,2026-05-27,ACCT1072,Transfer,Online Transfer,23.53,Completed,Midwest
+TXN100127,2026-05-27,ACCT1086,Transfer,ACH,129.38,Completed,Midwest
+TXN100369,2026-05-27,ACCT1023,Payment,Card,349.01,Completed,Midwest
+TXN100051,2026-05-29,ACCT1057,Transfer,Card,946.72,Completed,Northeast
+TXN100332,2026-05-30,ACCT1098,Refund,ACH,2519.35,Completed,South
+TXN100391,2026-05-30,ACCT1022,Refund,Card,152.84,Declined,Northeast
+TXN100015,2026-06-01,ACCT1018,Payment,Online Transfer,1377.58,Completed,Midwest
+TXN100190,2026-06-01,ACCT1039,Payment,Wire,107.37,Completed,Midwest
+TXN100207,2026-06-02,ACCT1033,Fee,Card,257.07,Completed,Northeast
+TXN100498,2026-06-02,ACCT1064,Refund,Wire,147.58,Completed,Midwest
+TXN100477,2026-06-03,ACCT1079,Transfer,ACH,927.03,Completed,West
+TXN100157,2026-06-03,ACCT1027,Payment,Online Transfer,241.86,Pending,Northeast
+TXN100252,2026-06-03,ACCT1017,Payment,ACH,219.15,Pending,Midwest
+TXN100341,2026-06-04,ACCT1025,Refund,Online Transfer,161.89,Completed,Northeast
+TXN100307,2026-06-04,ACCT1071,Payment,Wire,246.67,Completed,West
+TXN100090,2026-06-04,ACCT1039,Transfer,Wire,414.64,Completed,South
+TXN100064,2026-06-04,ACCT1042,Payment,Wire,443.69,Declined,South
+TXN100060,2026-06-05,ACCT1041,Payment,Wire,655.46,Completed,West
+TXN100366,2026-06-05,ACCT1080,Fee,Card,175.4,Completed,South
+TXN100457,2026-06-06,ACCT1030,Refund,Online Transfer,122.39,Pending,Midwest
+TXN100500,2026-06-06,ACCT1053,Refund,Online Transfer,206.09,Completed,Northeast
+TXN100140,2026-06-06,ACCT1031,Payment,Wire,71.17,Completed,West
+TXN100108,2026-06-06,ACCT1014,Payment,ACH,76.55,Completed,South
+TXN100232,2026-06-06,ACCT1027,Fee,ACH,208.97,Completed,Midwest
+TXN100269,2026-06-08,ACCT1029,Payment,Card,450.17,Declined,West
+TXN100054,2026-06-09,ACCT1094,Refund,Card,661.12,Declined,West
+TXN100265,2026-06-09,ACCT1067,Transfer,ACH,45.38,Completed,Midwest
+TXN100486,2026-06-09,ACCT1057,Payment,Online Transfer,1208.93,Declined,South
+TXN100447,2026-06-10,ACCT1069,Transfer,Card,94.32,Completed,West
+TXN100330,2026-06-11,ACCT1053,Payment,ACH,554.57,Declined,South
+TXN100367,2026-06-11,ACCT1060,Transfer,Online Transfer,71.69,Declined,Northeast
+TXN100483,2026-06-11,ACCT1091,Transfer,Online Transfer,450.75,Completed,West
+TXN100407,2026-06-12,ACCT1034,Payment,Online Transfer,57.0,Pending,Midwest
+TXN100301,2026-06-12,ACCT1074,Fee,Wire,135.95,Completed,Northeast
+TXN100155,2026-06-13,ACCT1060,Payment,ACH,300.9,Declined,Northeast
+TXN100434,2026-06-13,ACCT1006,Payment,Wire,186.42,Completed,Northeast
+TXN100058,2026-06-13,ACCT1029,Fee,Card,2017.69,Completed,Midwest
+TXN100250,2026-06-13,ACCT1044,Payment,Wire,377.47,Completed,West
+TXN100310,2026-06-13,ACCT1058,Payment,Online Transfer,197.06,Pending,Northeast
+TXN100314,2026-06-13,ACCT1045,Payment,Card,403.09,Completed,South
+TXN100488,2026-06-13,ACCT1028,Refund,ACH,112.67,Completed,Northeast
+TXN100373,2026-06-14,ACCT1017,Refund,ACH,191.05,Completed,South
+TXN100482,2026-06-14,ACCT1060,Payment,ACH,506.86,Declined,Northeast
+TXN100215,2026-06-14,ACCT1005,Refund,Wire,107.7,Pending,Northeast
+TXN100214,2026-06-15,ACCT1028,Transfer,Card,687.82,Pending,South
+TXN100261,2026-06-15,ACCT1063,Transfer,Card,54.53,Completed,Northeast
+TXN100004,2026-06-15,ACCT1096,Fee,Card,129.37,Declined,Northeast
+TXN100404,2026-06-16,ACCT1018,Payment,Online Transfer,184.14,Declined,Midwest
+TXN100156,2026-06-17,ACCT1016,Payment,Card,111.72,Pending,Northeast
+TXN100219,2026-06-17,ACCT1065,Transfer,ACH,8726.06,Completed,Midwest
+TXN100280,2026-06-18,ACCT1097,Payment,Card,540.78,Completed,West
+TXN100491,2026-06-19,ACCT1092,Transfer,Wire,128.47,Completed,South
+TXN100036,2026-06-19,ACCT1004,Payment,Wire,159.01,Completed,South
+TXN100045,2026-06-20,ACCT1017,Payment,Wire,13.7,Declined,South
+TXN100463,2026-06-20,ACCT1038,Transfer,Online Transfer,135.76,Completed,Midwest
+TXN100213,2026-06-20,ACCT1094,Transfer,ACH,445.31,Completed,West
+TXN100441,2026-06-21,ACCT1085,Payment,Card,189.45,Completed,Midwest
+TXN100286,2026-06-21,ACCT1078,Transfer,Online Transfer,488.51,Completed,Northeast
+TXN100464,2026-06-21,ACCT1075,Transfer,Wire,1412.51,Pending,West
+TXN100132,2026-06-22,ACCT1052,Payment,Online Transfer,301.41,Completed,West
+TXN100005,2026-06-22,ACCT1028,Refund,ACH,34.16,Pending,Midwest
+TXN100183,2026-06-22,ACCT1081,Payment,Wire,166.83,Pending,Midwest
+TXN100016,2026-06-23,ACCT1045,Fee,Wire,190.68,Completed,Midwest
+TXN100347,2026-06-23,ACCT1041,Transfer,Card,211.34,Declined,South
+TXN100094,2026-06-24,ACCT1054,Payment,ACH,429.71,Completed,West
+TXN100289,2026-06-24,ACCT1031,Payment,Wire,36.92,Declined,Midwest
+TXN100052,2026-06-25,ACCT1014,Payment,Wire,777.12,Completed,Northeast
+TXN100137,2026-06-25,ACCT1049,Fee,Online Transfer,254.99,Pending,West
+TXN100278,2026-06-25,ACCT1026,Payment,ACH,89.19,Completed,West
+TXN100170,2026-06-27,ACCT1012,Payment,Card,1266.73,Completed,Northeast
+TXN100121,2026-06-28,ACCT1090,Payment,ACH,57.62,Declined,Midwest
+TXN100049,2026-06-28,ACCT1065,Payment,ACH,212.47,Declined,Northeast
+TXN100098,2026-06-29,ACCT1058,Refund,ACH,215.84,Completed,Northeast
+TXN100326,2026-07-01,ACCT1075,Payment,Wire,700.39,Completed,Midwest
+TXN100456,2026-07-01,ACCT1095,Payment,ACH,348.49,Declined,Midwest
+TXN100251,2026-07-02,ACCT1055,Payment,Wire,907.79,Pending,South
+TXN100343,2026-07-03,ACCT1027,Payment,Card,180.65,Completed,Northeast
+TXN100231,2026-07-03,ACCT1051,Payment,Card,590.44,Completed,Northeast
+TXN100449,2026-07-03,ACCT1020,Payment,Online Transfer,1166.37,Completed,West
+TXN100384,2026-07-04,ACCT1026,Fee,ACH,197.86,Completed,Midwest
+TXN100267,2026-07-04,ACCT1089,Fee,Online Transfer,167.8,Completed,South
+TXN100184,2026-07-04,ACCT1010,Transfer,Card,454.32,Completed,South
+TXN100454,2026-07-04,ACCT1045,Transfer,Card,348.43,Completed,South
+TXN100236,2026-07-05,ACCT1058,Payment,Card,937.99,Completed,Midwest
+TXN100361,2026-07-05,ACCT1016,Refund,Online Transfer,146.06,Declined,Northeast
+TXN100027,2026-07-06,ACCT1009,Transfer,Online Transfer,137.68,Completed,South
+TXN100149,2026-07-07,ACCT1002,Transfer,Wire,158.37,Completed,South
+TXN100007,2026-07-07,ACCT1082,Refund,ACH,218.66,Completed,South
+TXN100485,2026-07-08,ACCT1088,Fee,Wire,539.22,Declined,West
+TXN100371,2026-07-08,ACCT1090,Fee,Online Transfer,174.14,Completed,Northeast
+TXN100305,2026-07-09,ACCT1072,Fee,ACH,242.27,Pending,West
+TXN100431,2026-07-10,ACCT1099,Transfer,Online Transfer,691.77,Pending,South
+TXN100017,2026-07-10,ACCT1031,Fee,ACH,231.52,Declined,West
+TXN100057,2026-07-10,ACCT1040,Transfer,ACH,1087.4,Completed,Midwest
+TXN100264,2026-07-11,ACCT1019,Refund,Wire,765.33,Completed,South
+TXN100255,2026-07-11,ACCT1029,Refund,Online Transfer,103.46,Completed,South
+TXN100258,2026-07-11,ACCT1058,Transfer,Card,423.07,Declined,South
+TXN100158,2026-07-12,ACCT1011,Transfer,Card,168.7,Completed,Midwest
+TXN100393,2026-07-12,ACCT1068,Transfer,ACH,186.8,Completed,South
+TXN100032,2026-07-13,ACCT1059,Payment,Card,134.79,Declined,South
+TXN100392,2026-07-16,ACCT1012,Payment,Card,22.12,Declined,South
+TXN100277,2026-07-16,ACCT1036,Fee,Card,1507.36,Completed,Northeast
+TXN100105,2026-07-17,ACCT1074,Transfer,Online Transfer,453.15,Completed,West
+TXN100150,2026-07-17,ACCT1091,Transfer,Card,681.92,Completed,Midwest
+TXN100031,2026-07-18,ACCT1094,Transfer,Wire,155.9,Declined,Midwest
+TXN100153,2026-07-18,ACCT1065,Payment,Online Transfer,250.72,Completed,Northeast
+TXN100416,2026-07-19,ACCT1030,Payment,Card,74.37,Pending,Northeast
+TXN100372,2026-07-19,ACCT1048,Payment,Online Transfer,456.22,Completed,Northeast
+TXN100271,2026-07-20,ACCT1050,Payment,Online Transfer,96.52,Completed,South
+TXN100212,2026-07-20,ACCT1099,Payment,ACH,1712.8,Declined,West
+TXN100263,2026-07-21,ACCT1096,Fee,ACH,251.53,Completed,Northeast
+TXN100161,2026-07-21,ACCT1015,Payment,Card,833.47,Completed,Midwest
+TXN100206,2026-07-22,ACCT1004,Payment,ACH,131.37,Completed,Midwest
+TXN100050,2026-07-22,ACCT1057,Fee,Wire,458.82,Completed,South
+TXN100478,2026-07-22,ACCT1091,Fee,Wire,313.21,Pending,Northeast
+TXN100445,2026-07-23,ACCT1029,Fee,Online Transfer,115.82,Completed,South
+TXN100336,2026-07-23,ACCT1046,Payment,Card,88.36,Completed,South
+TXN100129,2026-07-23,ACCT1082,Payment,Card,211.51,Completed,Midwest
+TXN100165,2026-07-23,ACCT1019,Refund,Online Transfer,130.11,Completed,Midwest
+TXN100144,2026-07-23,ACCT1010,Transfer,Wire,249.23,Completed,South
+TXN100134,2026-07-24,ACCT1039,Payment,Online Transfer,238.89,Declined,Midwest
+TXN100379,2026-07-25,ACCT1065,Transfer,Wire,185.18,Completed,Northeast
+TXN100224,2026-07-27,ACCT1090,Transfer,Card,2435.09,Completed,South
+TXN100164,2026-07-28,ACCT1004,Payment,Wire,193.51,Declined,Northeast
+TXN100167,2026-07-28,ACCT1072,Payment,Card,41.08,Completed,Midwest
+TXN100304,2026-07-29,ACCT1099,Refund,Card,428.84,Completed,South
+TXN100078,2026-07-30,ACCT1055,Payment,Online Transfer,454.87,Completed,Midwest
+TXN100309,2026-07-31,ACCT1025,Transfer,Online Transfer,293.37,Pending,Northeast
+TXN100294,2026-07-31,ACCT1071,Payment,ACH,74.22,Completed,West
+TXN100030,2026-07-31,ACCT1066,Payment,Online Transfer,386.97,Completed,West
+TXN100328,2026-07-31,ACCT1066,Payment,Wire,614.26,Completed,Northeast
+TXN100166,2026-07-31,ACCT1079,Transfer,Card,522.15,Completed,Northeast
+TXN100011,2026-08-01,ACCT1033,Transfer,Online Transfer,171.86,Completed,South
+TXN100358,2026-08-01,ACCT1026,Payment,Wire,687.75,Pending,South
+TXN100023,2026-08-02,ACCT1029,Transfer,ACH,298.59,Completed,West
+TXN100096,2026-08-02,ACCT1023,Transfer,ACH,474.45,Completed,Northeast
+TXN100370,2026-08-03,ACCT1042,Transfer,ACH,219.03,Completed,South
+TXN100047,2026-08-04,ACCT1003,Payment,Online Transfer,486.07,Completed,South
+TXN100378,2026-08-05,ACCT1035,Payment,ACH,740.25,Completed,Midwest
+TXN100440,2026-08-05,ACCT1039,Payment,Wire,358.93,Completed,South
+TXN100335,2026-08-07,ACCT1029,Payment,Wire,76.07,Declined,Midwest
+TXN100300,2026-08-08,ACCT1023,Payment,Online Transfer,358.11,Declined,South
+TXN100073,2026-08-08,ACCT1064,Payment,Wire,88.66,Completed,Northeast
+TXN100403,2026-08-08,ACCT1091,Payment,Card,10467.66,Completed,South
+TXN100143,2026-08-09,ACCT1035,Payment,Wire,445.23,Completed,South
+TXN100484,2026-08-10,ACCT1090,Transfer,Card,1669.05,Completed,Northeast
+TXN100317,2026-08-10,ACCT1059,Fee,ACH,333.42,Completed,South
+TXN100290,2026-08-11,ACCT1024,Transfer,Online Transfer,669.29,Declined,Northeast
+TXN100055,2026-08-11,ACCT1014,Payment,Card,341.89,Completed,Northeast
+TXN100428,2026-08-11,ACCT1037,Payment,Online Transfer,783.87,Pending,West
+TXN100142,2026-08-11,ACCT1037,Refund,ACH,292.02,Pending,South
+TXN100459,2026-08-11,ACCT1012,Refund,Card,469.32,Completed,Midwest
+TXN100451,2026-08-11,ACCT1005,Refund,Card,758.04,Completed,West
+TXN100245,2026-08-11,ACCT1089,Fee,Card,589.7,Completed,South
+TXN100354,2026-08-12,ACCT1026,Payment,ACH,648.34,Declined,West
+TXN100199,2026-08-12,ACCT1008,Transfer,Online Transfer,68.64,Completed,West
+TXN100238,2026-08-14,ACCT1044,Refund,Card,165.29,Completed,Midwest
+TXN100159,2026-08-14,ACCT1048,Payment,ACH,900.05,Completed,West
+TXN100406,2026-08-15,ACCT1053,Transfer,Online Transfer,882.12,Pending,Northeast
+TXN100126,2026-08-16,ACCT1088,Payment,Wire,1095.24,Pending,West
+TXN100363,2026-08-16,ACCT1098,Payment,ACH,239.85,Pending,Midwest
+TXN100283,2026-08-17,ACCT1044,Payment,Online Transfer,153.5,Completed,Midwest
+TXN100077,2026-08-17,ACCT1088,Transfer,Wire,78.31,Declined,Northeast
+TXN100472,2026-08-18,ACCT1062,Transfer,Card,246.12,Declined,Midwest
+TXN100193,2026-08-18,ACCT1000,Payment,ACH,143.07,Completed,West
+TXN100135,2026-08-19,ACCT1047,Payment,ACH,392.75,Completed,Northeast
+TXN100222,2026-08-19,ACCT1001,Refund,Online Transfer,114.34,Completed,Midwest
+TXN100041,2026-08-20,ACCT1027,Payment,Card,391.45,Completed,South
+TXN100025,2026-08-20,ACCT1016,Refund,ACH,536.59,Declined,South
+TXN100086,2026-08-21,ACCT1046,Payment,Card,124.98,Completed,Midwest
+TXN100059,2026-08-21,ACCT1070,Transfer,Wire,98.97,Pending,South
+TXN100256,2026-08-22,ACCT1075,Payment,Card,247.35,Completed,West
+TXN100010,2026-08-23,ACCT1003,Payment,Card,68.88,Completed,West
+TXN100172,2026-08-24,ACCT1009,Payment,Wire,65.96,Completed,South
+TXN100189,2026-08-24,ACCT1094,Payment,Card,397.48,Completed,South
+TXN100410,2026-08-25,ACCT1045,Transfer,Wire,682.72,Completed,West
+TXN100424,2026-08-25,ACCT1013,Refund,ACH,1025.93,Pending,Midwest
+TXN100435,2026-08-25,ACCT1048,Transfer,Wire,290.82,Pending,West
+TXN100003,2026-08-26,ACCT1071,Payment,ACH,754.11,Completed,Northeast
+TXN100229,2026-08-26,ACCT1078,Transfer,Card,380.38,Pending,Northeast
+TXN100420,2026-08-27,ACCT1072,Transfer,Online Transfer,900.26,Completed,West
+TXN100339,2026-08-27,ACCT1042,Payment,Card,129.39,Declined,West
+TXN100308,2026-08-27,ACCT1026,Payment,Card,534.36,Completed,Northeast
+TXN100093,2026-08-27,ACCT1005,Payment,ACH,555.14,Declined,Northeast
+TXN100352,2026-08-27,ACCT1003,Transfer,Card,183.52,Pending,Midwest
+TXN100466,2026-08-28,ACCT1061,Payment,Card,28.8,Completed,West
+TXN100138,2026-08-29,ACCT1092,Refund,Card,674.15,Declined,Midwest
+TXN100292,2026-08-30,ACCT1076,Transfer,Card,102.81,Completed,South
+TXN100237,2026-08-30,ACCT1067,Transfer,ACH,196.29,Completed,South
+TXN100318,2026-08-31,ACCT1003,Transfer,ACH,108.08,Completed,West
